@@ -1,0 +1,8 @@
+{
+  "env": {
+    "JWT_KEY": "test",
+    "SERVEUR_URL": "http://localhost:3000",
+    "NODE_ENV": "development",
+    "ROOT_STORAGE": "./"
+  }
+}
